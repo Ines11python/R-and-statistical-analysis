@@ -1,0 +1,61 @@
+itemname;restaurant;meattype;caloriesKcal;fatg;sodiummg;servingsizeg
+Big Mac (McD);MCD;Beef;560;30;1010;214
+Cripsy Chicken Classic (McD);MCD;Chicken;530;20;1150;230
+Double Cheeseburger (McD);MCD;Beef;460;23;1140;165
+Filet O' Fish (McD);MCD;Fish;400;18;640;142
+Grilled Chicken Classic (McD);MCD;Chicken;420;9;1240;226
+Hamburger (McD);MCD;Beef;260;9;530;100
+McNuggets 6pc. (McD);MCD;Chicken;250;15;670;95
+Premium Grilled Chicken Club Sandwich (McD);MCD;Chicken;530;17;1410;250
+Premium Southwest Salad with Chicken (McD);MCD;Chicken;320;9;960;350
+Quarter Pounder with Cheese (McD);MCD;Beef;510;25;1150;198
+7-Layer Burrito (T);TB;Veg;530;21;1400;283
+Bean Burrito (T);TB;Veg;370;10;1200;198
+Burrito Supreme (T);TB;Beef;440;18;1330;248
+Chalupa Baja -- beef (T);TB;Beef;410;26;730;153
+Chicken Quesadilla (T);TB;Chicken;540;30;1380;184
+Chicken soft taco (T);TB;Chicken;200;8;640;99
+Crunchy taco (T);TB;Beef;170;10;330;78
+Fiesta Taco Salad (T);TB;Beef;860;46;1800;544
+Nachos Supreme (T);TB;Beef;430;25;910;191
+Taco Supreme, crunchy (T);TB;Beef;200;12;380;113
+"6"" Big Philly Cheesesteak (SW)";SW;Beef;520;18;1570;309
+"6"" Chicken & Bacon Ranch Sub";SW;Chicken;570;28;1190;298
+"6"" Cold Cut Combo Sub (SW)";SW;sausage;410;16;1450;252
+"6"" Italian BMT Sub (SW)";SW;sausage;450;21;1790;306
+"6"" Meatball Marinara Sub (SW)";SW;Beef;580;23;1530;379
+"6"" Roast Chicken Sub (SW)";SW;Chicken;320;4,5;750;239
+"6"" Sweet Onion Chicken Teriyaki Sub (SW)";SW;Chicken;380;4,5;1010;281
+"6"" Tuna Sub (SW)";SW;Fish;530;30;930;252
+"6"" Turkey Sub (SW)";SW;Chicken;280;4,5;1020;223
+"6"" Veggie Delite Sub (SW)";SW;Veg;230;3;520;167
+BK Big Fish (BK);BK;Fish;630;30;1380;248
+BK Quad Stacker (BK);BK;Beef;930;65;1740;311
+BK veggie burger (BK);BK;Veg;420;16;1100;215
+Chicken Tenders 6pc (BK);BK;Chicken;270;16;730;92
+Double Whopper (BK);BK;Beef;900;57;1090;373
+Hamburger (BK);BK;Beef;290;12;560;121
+Tendercrisp Chicken Sandwich (BK);BK;Chicken;780;43;1730;286
+Triple Whopper (BK);BK;Beef;1130;74;1160;456
+Whopper (BK);BK;Beef;670;39;1020;290
+Whopper Jr. (BK);BK;Beef;370;21;560;158
+Bacon & Cheese Baked Potato (W);Wendy;sausage;460;13;980;366
+Baconator Triple (W);Wendy;Beef;1330;86;3150;424
+Big Bacon Classic (W);Wendy;Beef;570;29;1460;282
+Chicken Nuggets, 5 pieces (W);Wendy;Chicken;250;17;509;75
+Classic Double with Cheese (W);Wendy;Beef;747;44;1308;310
+Classic Single (W);Wendy;Beef;464;23;861;218
+Grilled Chicken Sandwich (W);Wendy;Chicken;360;7;1100;225
+Premium Fish Fillet Sandwich (W);Wendy;Beef;500;24;980;188
+Sour Cream and Chives Potato (W);Wendy;Veg;320;3,5;50;308
+Spicy Chicken Sandwich (W);Wendy;Chicken;430;15;1240;217
+Chicken Club Toaster Sandwich (So);Sonicdrive;Chicken;690;35;1900;265
+Corn Dog (So);Sonicdrive;sausage;210;11;530;74
+Crispy Chicken Sandwich (So);Sonicdrive;Chicken;560;32;780;215
+Ex-long Chili Cheese Coney (So);Sonicdrive;Chicken;660;15;1856;258
+Fritos Chili Pie (So);Sonicdrive;Beef;940;64;1540;275
+Grilled Chicken Sandwich (So);Sonicdrive;Chicken;343;13;829;225
+Jumbo Popcorn Chicken (So);Sonicdrive;Chicken;370;21;1270;113
+Sonic Bacon Cheeseburger (So);Sonicdrive;Beef;770;47;1280;273
+Sonic Jr. Burger (So);Sonicdrive;Beef;320;16;610;117
+Super Sonic Cheeseburger (So);Sonicdrive;Beef;970;63;1420;337
