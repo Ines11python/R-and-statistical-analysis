@@ -1,2 +1,3 @@
-# R-and-statistics-
-statisticals analysis from R
+# R-and-statistics-analysis
+statisticals analysis assignments from data and statistics
+
